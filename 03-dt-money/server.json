@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-04-09T01:50:01.817Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-04-09T08:50:01.817Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-04-09T19:50:01.817Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 3000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-04-11T14:49:02.085Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-11T15:22:48.040Z",
+      "id": 5
+    },
+    {
+      "description": "Iorgurt de Banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-11T16:50:36.807Z",
+      "id": 6
+    }
+  ]
+}
